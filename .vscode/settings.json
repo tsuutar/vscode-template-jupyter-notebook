@@ -1,0 +1,11 @@
+// Folders in your home directory to look into for virtual environments.
+{
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "window.zoomLevel": 0,
+  "python.jediEnabled": false,
+  "python.venvFolders": [
+    ".venv"
+  ],
+}
